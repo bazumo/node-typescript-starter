@@ -1,3 +1,3 @@
 
 
-console.log("Hello");
+console.log("Write your TypeScript here");
